@@ -55,6 +55,9 @@ The application uses Laravel migrations and seeders to create the database struc
 
 ## Screenshots
 <img width="897" alt="Screenshot 2023-11-24 131713" src="https://github.com/Govind123412/laravel-10-curd-operatipn/assets/146182772/4bc16ae0-65ef-4343-b2f2-fbba3ae07cab">
+<img width="916" alt="Screenshot 2023-11-24 131727" src="https://github.com/Govind123412/laravel-10-curd-operatipn/assets/146182772/69ea8208-5718-4dc2-a7a2-2b3944be2633">
+<img width="920" alt="Screenshot 2023-11-24 131742" src="https://github.com/Govind123412/laravel-10-curd-operatipn/assets/146182772/bea0abc2-06e7-4f68-ac12-fdf255fd1e91">
+<img width="935" alt="Screenshot 2023-11-24 131757" src="https://github.com/Govind123412/laravel-10-curd-operatipn/assets/146182772/504ec7c4-c361-4c9c-9d5d-f9f99c8a2f19">
 
 
 
