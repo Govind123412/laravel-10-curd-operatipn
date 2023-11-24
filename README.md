@@ -54,6 +54,7 @@ This Laravel application allows you to perform CRUD operations on a collection o
 The application uses Laravel migrations and seeders to create the database structure and populate initial data. If needed, you can rollback and re-run migrations.
 
 ## Screenshots
+<img width="897" alt="Screenshot 2023-11-24 131713" src="https://github.com/Govind123412/laravel-10-curd-operatipn/assets/146182772/4bc16ae0-65ef-4343-b2f2-fbba3ae07cab">
 
 
 
